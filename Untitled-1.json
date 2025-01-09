@@ -1,0 +1,32 @@
+    {
+        "code": 200,
+        "msg": null,
+        "success": true,
+        "requestId": null,
+        "paramDataList": [
+            {
+                "collectTime": "2019",
+                "dataList": [
+                    {
+                        "key": "generation",
+                        "value": "9292.00",
+                        "unit": "kWh",
+                        "name": "Production"
+                    }
+                ]
+            },
+            {
+                "collectTime": "2020",
+                "dataList": [
+                    {
+                        "key": "generation",
+                        "value": "16935.00",
+                        "unit": "kWh",
+                        "name": "Production"
+                    }
+                ]
+            }
+        ],
+        "sunrise": "06:21",
+        "sunset": "17:58"
+    }
